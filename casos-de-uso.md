@@ -22,7 +22,7 @@
 
 ![Diagrama de Casos de Uso](imagens/diagrama-casos-uso.png)
 
-## Exemplos de fluxo de casos de uso:
+# Exemplos de fluxo de casos de uso:
 
 ## Caso 1 – Cadastrar Livro
 **Atores envolvidos:** Bibliotecário  

@@ -43,7 +43,7 @@ Substituir o método manual e obsoleto de gerenciamento de biblioteca por um sis
 - O banco de dados do sistema usará PostgreSQL  
 - O sistema será desenvolvido em Python, com o framework Django  
 
-[Visão do Produto](visao-do-produto.md)
+[Visão do Produto](visao-de-produto.md)
 
 ---
 
@@ -62,6 +62,7 @@ Substituir o método manual e obsoleto de gerenciamento de biblioteca por um sis
 - Verificar disponibilidade dos livros
 
 **Para mais detalhes, acesse o arquivo casos-de-uso.md**
+
 [Casos de Uso](casos-de-uso.md)
 
 ---
@@ -71,6 +72,7 @@ Substituir o método manual e obsoleto de gerenciamento de biblioteca por um sis
 **As descrições das classes estão no arquivo modelo-conceitual.md**
 
 [Modelo Conceitual](modelo-conceitual.md)
+
 ![Diagrama de Classes](imagens/modelo-conceitual.png)
 
 ---
